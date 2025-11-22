@@ -91,24 +91,8 @@ Me chamo Iago Yuri Rossan, tenho 24 anos e sou natural de Sorocaba - SP. ConcluÃ
 />
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB"
+    alt="mongoDB"
     title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongo/mongo-original.svg](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?)" 
-/>
-<img 
-    align="left" 
-    alt="Nodejs"
-    title="Nodejs"
     width="30px" 
     style="padding-right: 10px;" 
     src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongo/mongo-original.svg" 
